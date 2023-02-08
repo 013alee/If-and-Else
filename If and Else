@@ -1,0 +1,27 @@
+void main() {
+//AULA DIA 06/02
+
+int notaMinima = 5;
+int passoudeAno = 7;
+
+//DECORAÇÃO
+print('*********************ESCOLA*********************');
+print('');
+print('');
+print('');
+
+//IF/ELSE
+if(notaMinima > passoudeAno){
+print('  Parabens! Você foi aprovado! Continue assim!');
+}else
+
+{
+print(' Você foi Reprovado! Se dedique mais nas aulas!');
+}
+
+//DECORAÇÃO  
+print('');
+print('');
+print('');
+print('*********************ESCOLA*********************');
+}
